@@ -1,0 +1,31 @@
+{
+  "id": "tequila_sunrise_classic",
+  "name": "Tequila Sunrise",
+  "base": "Tequila",
+  "style": "Highball",
+  "flavors": [
+    "citrus",
+    "sweet",
+    "fruity",
+    "refreshing"
+  ],
+  "abv": 12.0,
+  "ice": "Build over ice in glass",
+  "ingredients": [
+    { "name": "Blanco tequila", "amount": 2.0, "unit": "oz" },
+    { "name": "Orange juice", "amount": 4.0, "unit": "oz" },
+    { "name": "Grenadine", "amount": 0.5, "unit": "oz" }
+  ],
+  "steps": [
+    "Fill a highball glass with ice.",
+    "Add tequila and orange juice and stir gently.",
+    "Slowly pour grenadine down the side of the glass; it will sink and then rise for the sunrise effect.",
+    "Do not stir after adding grenadine.",
+    "Garnish before serving."
+  ],
+  "glass": "Highball glass",
+  "garnish": [
+    "Orange slice",
+    "Maraschino cherry"
+  ]
+}

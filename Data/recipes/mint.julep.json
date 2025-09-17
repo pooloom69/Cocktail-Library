@@ -1,0 +1,30 @@
+{
+  "id": "mint_julep_classic",
+  "name": "Mint Julep",
+  "base": "Bourbon",
+  "style": "Smash / Julep",
+  "flavors": [
+    "minty",
+    "refreshing",
+    "sweet",
+    "spirit-forward"
+  ],
+  "abv": 25.0,
+  "ice": "Build over crushed ice",
+  "ingredients": [
+    { "name": "Bourbon whiskey", "amount": 2.5, "unit": "oz" },
+    { "name": "Fresh mint leaves", "amount": 8, "unit": "leaves" },
+    { "name": "Simple syrup (1:1)", "amount": 0.5, "unit": "oz" }
+  ],
+  "steps": [
+    "Lightly muddle mint leaves with simple syrup in a julep cup or rocks glass.",
+    "Fill the glass with crushed ice.",
+    "Add bourbon and stir until the glass is frosted.",
+    "Top with more crushed ice to form a dome.",
+    "Garnish before serving."
+  ],
+  "glass": "Julep cup or Rocks glass",
+  "garnish": [
+    "Mint bouquet"
+  ]
+}

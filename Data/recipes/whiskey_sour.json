@@ -1,0 +1,31 @@
+{
+  "id": "whiskey_sour_classic",
+  "name": "Whiskey Sour",
+  "base": "Whiskey",
+  "style": "Classic sour",
+  "flavors": [
+    "citrus",
+    "refreshing",
+    "sweet",
+    "spirit-forward"
+  ],
+  "abv": 18.0,
+  "ice": "Shake with ice, serve over fresh cubes or up",
+  "ingredients": [
+    { "name": "Bourbon whiskey", "amount": 2.0, "unit": "oz" },
+    { "name": "Fresh lemon juice", "amount": 0.75, "unit": "oz" },
+    { "name": "Simple syrup (1:1)", "amount": 0.75, "unit": "oz" },
+    { "name": "Optional: Egg white", "amount": 1.0, "unit": "small" }
+  ],
+  "steps": [
+    "If using egg white: dry shake all ingredients (no ice) for 10 seconds.",
+    "Add ice to the shaker and shake hard until chilled.",
+    "Strain into a rocks glass over fresh ice, or into a coupe if served up.",
+    "Garnish before serving."
+  ],
+  "glass": "Rocks glass (or Coupe)",
+  "garnish": [
+    "Orange slice",
+    "Maraschino cherry"
+  ]
+}

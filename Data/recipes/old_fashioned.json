@@ -1,0 +1,30 @@
+{
+  "id": "old_fashioned_classic",
+  "name": "Old Fashioned",
+  "base": "Bourbon or Rye Whiskey",
+  "style": "Spirit-forward stirred",
+  "flavors": [
+    "spirit-forward",
+    "sweet",
+    "bitter",
+    "aromatic"
+  ],
+  "abv": 29.0,
+  "ice": "Build over ice, stir briefly, serve over large cube",
+  "ingredients": [
+    { "name": "Bourbon or Rye whiskey", "amount": 2.0, "unit": "oz" },
+    { "name": "Simple syrup (1:1) or sugar cube", "amount": 0.25, "unit": "oz" },
+    { "name": "Angostura bitters", "amount": 2.0, "unit": "dashes" }
+  ],
+  "steps": [
+    "Add sugar (or syrup) and bitters to a mixing glass or directly to the serving glass.",
+    "Add whiskey and stir to combine.",
+    "Add ice (large cube preferred) and stir briefly to chill.",
+    "Express an orange peel over the drink, garnish, and serve."
+  ],
+  "glass": "Rocks glass",
+  "garnish": [
+    "Orange peel twist",
+    "Optional: cocktail cherry"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "singapore_sling_classic",
+  "name": "Singapore Sling",
+  "base": "Gin",
+  "style": "Tropical highball",
+  "flavors": [
+    "citrus",
+    "fruity",
+    "sweet",
+    "refreshing",
+    "herbal"
+  ],
+  "abv": 16.0,
+  "ice": "Shake with ice, serve over fresh ice",
+  "ingredients": [
+    { "name": "Gin", "amount": 1.5, "unit": "oz" },
+    { "name": "Cherry liqueur (Heering)", "amount": 0.75, "unit": "oz" },
+    { "name": "Cointreau (triple sec)", "amount": 0.25, "unit": "oz" },
+    { "name": "Benedictine", "amount": 0.25, "unit": "oz" },
+    { "name": "Fresh lime juice", "amount": 0.5, "unit": "oz" },
+    { "name": "Pineapple juice", "amount": 4.0, "unit": "oz" },
+    { "name": "Grenadine", "amount": 0.25, "unit": "oz" },
+    { "name": "Angostura bitters", "amount": 1, "unit": "dash" }
+  ],
+  "steps": [
+    "Add all ingredients to a shaker with ice.",
+    "Shake until well chilled.",
+    "Strain into a highball or hurricane glass filled with fresh ice.",
+    "Garnish before serving."
+  ],
+  "glass": "Highball or Hurricane glass",
+  "garnish": [
+    "Pineapple wedge",
+    "Cherry"
+  ]
+}

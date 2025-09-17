@@ -1,0 +1,30 @@
+{
+  "id": "pina_colada_classic",
+  "name": "Piña Colada",
+  "base": "Rum",
+  "style": "Tropical blended",
+  "flavors": [
+    "tropical",
+    "sweet",
+    "creamy",
+    "fruity"
+  ],
+  "abv": 13.0,
+  "ice": "Blend with crushed ice until smooth",
+  "ingredients": [
+    { "name": "White rum", "amount": 2.0, "unit": "oz" },
+    { "name": "Cream of coconut", "amount": 1.0, "unit": "oz" },
+    { "name": "Pineapple juice", "amount": 3.0, "unit": "oz" }
+  ],
+  "steps": [
+    "Add rum, cream of coconut, pineapple juice, and a cup of crushed ice to a blender.",
+    "Blend until smooth and frothy.",
+    "Pour into a chilled hurricane or highball glass.",
+    "Garnish before serving."
+  ],
+  "glass": "Hurricane or Highball glass",
+  "garnish": [
+    "Pineapple wedge",
+    "Maraschino cherry"
+  ]
+}

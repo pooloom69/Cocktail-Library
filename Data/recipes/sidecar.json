@@ -1,0 +1,31 @@
+{
+  "id": "sidecar_classic",
+  "name": "Sidecar",
+  "base": "Cognac",
+  "style": "Classic sour",
+  "flavors": [
+    "citrus",
+    "spirit-forward",
+    "aromatic",
+    "balanced"
+  ],
+  "abv": 24.0,
+  "ice": "Shake with ice, serve up",
+  "ingredients": [
+    { "name": "Cognac", "amount": 2.0, "unit": "oz" },
+    { "name": "Orange liqueur (Cointreau)", "amount": 1.0, "unit": "oz" },
+    { "name": "Fresh lemon juice", "amount": 0.75, "unit": "oz" }
+  ],
+  "steps": [
+    "Optional: Rim the coupe with sugar.",
+    "Add cognac, orange liqueur, and lemon juice to a shaker with ice.",
+    "Shake until well chilled.",
+    "Strain into a chilled coupe or martini glass.",
+    "Garnish before serving."
+  ],
+  "glass": "Coupe or Martini glass",
+  "garnish": [
+    "Orange twist",
+    "Optional: sugar rim"
+  ]
+}

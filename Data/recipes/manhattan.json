@@ -1,0 +1,29 @@
+{
+  "id": "manhattan_classic",
+  "name": "Manhattan",
+  "base": "Whiskey",
+  "style": "Spirit-forward stirred",
+  "flavors": [
+    "spirit-forward",
+    "aromatic",
+    "bitter",
+    "sweet"
+  ],
+  "abv": 28.0,
+  "ice": "Stir with ice, serve up",
+  "ingredients": [
+    { "name": "Rye whiskey (or Bourbon)", "amount": 2.0, "unit": "oz" },
+    { "name": "Sweet vermouth", "amount": 1.0, "unit": "oz" },
+    { "name": "Angostura bitters", "amount": 2.0, "unit": "dashes" }
+  ],
+  "steps": [
+    "Add whiskey, sweet vermouth, and bitters to a mixing glass with ice.",
+    "Stir until well chilled, about 20–30 seconds.",
+    "Strain into a chilled coupe or martini glass.",
+    "Garnish before serving."
+  ],
+  "glass": "Coupe or Martini glass",
+  "garnish": [
+    "Brandied cherry"
+  ]
+}

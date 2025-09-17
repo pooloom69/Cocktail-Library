@@ -1,0 +1,39 @@
+{
+  "id": "zombie_classic",
+  "name": "Zombie",
+  "base": "Rum",
+  "style": "Tiki",
+  "flavors": [
+    "tropical",
+    "strong",
+    "citrus",
+    "spicy",
+    "sweet"
+  ],
+  "abv": 27.0,
+  "ice": "Shake with ice, serve over crushed ice",
+  "ingredients": [
+    { "name": "Light rum", "amount": 1.0, "unit": "oz" },
+    { "name": "Dark rum", "amount": 1.0, "unit": "oz" },
+    { "name": "Overproof rum", "amount": 0.5, "unit": "oz" },
+    { "name": "Apricot brandy", "amount": 0.5, "unit": "oz" },
+    { "name": "Fresh lime juice", "amount": 0.75, "unit": "oz" },
+    { "name": "Pineapple juice", "amount": 1.0, "unit": "oz" },
+    { "name": "Papaya juice (or passionfruit)", "amount": 1.0, "unit": "oz" },
+    { "name": "Grenadine", "amount": 0.25, "unit": "oz" },
+    { "name": "Angostura bitters", "amount": 1, "unit": "dash" }
+  ],
+  "steps": [
+    "Add all ingredients (except the overproof rum float) to a shaker with ice.",
+    "Shake well until chilled.",
+    "Strain into a tall glass filled with crushed ice.",
+    "Float the overproof rum on top.",
+    "Garnish before serving."
+  ],
+  "glass": "Tall tiki glass or Hurricane glass",
+  "garnish": [
+    "Mint sprig",
+    "Pineapple wedge",
+    "Cherry"
+  ]
+}

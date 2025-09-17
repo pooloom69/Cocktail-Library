@@ -1,0 +1,29 @@
+{
+  "id": "negroni_classic",
+  "name": "Negroni",
+  "base": "Gin",
+  "style": "Spirit-forward stirred",
+  "flavors": [
+    "bitter",
+    "aromatic",
+    "spirit-forward",
+    "herbal"
+  ],
+  "abv": 24.0,
+  "ice": "Stir with ice, serve over a large cube or up",
+  "ingredients": [
+    { "name": "Gin", "amount": 1.0, "unit": "oz" },
+    { "name": "Campari", "amount": 1.0, "unit": "oz" },
+    { "name": "Sweet vermouth", "amount": 1.0, "unit": "oz" }
+  ],
+  "steps": [
+    "Add gin, Campari, and sweet vermouth to a mixing glass with ice.",
+    "Stir until well chilled, about 20–30 seconds.",
+    "Strain into a rocks glass over a large ice cube, or serve up in a coupe.",
+    "Garnish before serving."
+  ],
+  "glass": "Rocks glass (or Coupe)",
+  "garnish": [
+    "Orange peel"
+  ]
+}

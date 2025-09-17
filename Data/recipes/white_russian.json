@@ -1,0 +1,29 @@
+{
+  "id": "white_russian_classic",
+  "name": "White Russian",
+  "base": "Vodka",
+  "style": "Creamy cocktail",
+  "flavors": [
+    "sweet",
+    "rich",
+    "coffee",
+    "creamy"
+  ],
+  "abv": 19.0,
+  "ice": "Build over ice in glass",
+  "ingredients": [
+    { "name": "Vodka", "amount": 2.0, "unit": "oz" },
+    { "name": "Coffee liqueur (e.g., Kahlúa)", "amount": 1.0, "unit": "oz" },
+    { "name": "Heavy cream", "amount": 1.0, "unit": "oz" }
+  ],
+  "steps": [
+    "Fill a rocks glass with ice.",
+    "Add vodka and coffee liqueur.",
+    "Top with heavy cream.",
+    "Stir gently or leave layered, depending on preference."
+  ],
+  "glass": "Rocks glass",
+  "garnish": [
+    "Optional: grated nutmeg or cocoa powder"
+  ]
+}

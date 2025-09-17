@@ -1,0 +1,35 @@
+{
+  "id": "rum_punch_classic",
+  "name": "Rum Punch",
+  "base": "Rum",
+  "style": "Tropical punch",
+  "flavors": [
+    "tropical",
+    "fruity",
+    "sweet",
+    "refreshing"
+  ],
+  "abv": 14.0,
+  "ice": "Build over ice in glass or serve in a punch bowl",
+  "ingredients": [
+    { "name": "Dark rum", "amount": 1.5, "unit": "oz" },
+    { "name": "Light rum", "amount": 1.5, "unit": "oz" },
+    { "name": "Orange juice", "amount": 2.0, "unit": "oz" },
+    { "name": "Pineapple juice", "amount": 2.0, "unit": "oz" },
+    { "name": "Fresh lime juice", "amount": 0.5, "unit": "oz" },
+    { "name": "Grenadine", "amount": 0.5, "unit": "oz" }
+  ],
+  "steps": [
+    "Fill a large glass or shaker with ice.",
+    "Add both rums, orange juice, pineapple juice, lime juice, and grenadine.",
+    "Shake or stir well to combine.",
+    "Strain into a tall glass over fresh ice.",
+    "Garnish before serving."
+  ],
+  "glass": "Highball or Hurricane glass",
+  "garnish": [
+    "Orange slice",
+    "Pineapple wedge",
+    "Maraschino cherry"
+  ]
+}

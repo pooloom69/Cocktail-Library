@@ -1,0 +1,31 @@
+{
+  "id": "tom_collins_classic",
+  "name": "Tom Collins",
+  "base": "Gin",
+  "style": "Highball",
+  "flavors": [
+    "citrus",
+    "refreshing",
+    "sweet",
+    "light"
+  ],
+  "abv": 11.0,
+  "ice": "Build over ice in glass",
+  "ingredients": [
+    { "name": "Gin", "amount": 2.0, "unit": "oz" },
+    { "name": "Fresh lemon juice", "amount": 1.0, "unit": "oz" },
+    { "name": "Simple syrup (1:1)", "amount": 0.5, "unit": "oz" },
+    { "name": "Soda water", "amount": 3.0, "unit": "oz" }
+  ],
+  "steps": [
+    "Fill a Collins glass with ice.",
+    "Add gin, lemon juice, and simple syrup.",
+    "Top with soda water and stir gently.",
+    "Garnish before serving."
+  ],
+  "glass": "Collins glass",
+  "garnish": [
+    "Lemon wheel",
+    "Maraschino cherry (optional)"
+  ]
+}
