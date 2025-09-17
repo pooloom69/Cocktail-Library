@@ -1,0 +1,29 @@
+{
+  "id": "dirty_martini_classic",
+  "name": "Dirty Martini",
+  "base": "Gin",
+  "style": "Spirit-forward stirred",
+  "flavors": [
+    "spirit-forward",
+    "briny",
+    "savory",
+    "herbal"
+  ],
+  "abv": 25.0,
+  "ice": "Stir with ice, serve up",
+  "ingredients": [
+    { "name": "Gin", "amount": 2.5, "unit": "oz" },
+    { "name": "Dry vermouth", "amount": 0.5, "unit": "oz" },
+    { "name": "Olive brine", "amount": 0.5, "unit": "oz" }
+  ],
+  "steps": [
+    "Add gin, dry vermouth, and olive brine to a mixing glass with plenty of ice.",
+    "Stir until very cold (about 20–30 seconds).",
+    "Strain into a chilled martini or coupe glass.",
+    "Garnish and serve."
+  ],
+  "glass": "Martini (cocktail) glass or Coupe",
+  "garnish": [
+    "2–3 olives on a pick"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "espresso_martini_classic",
+  "name": "Espresso Martini",
+  "base": "Vodka",
+  "style": "Martini-style",
+  "flavors": [
+    "coffee",
+    "rich",
+    "sweet",
+    "spirit-forward"
+  ],
+  "abv": 20.0,
+  "ice": "Shake with ice, serve up",
+  "ingredients": [
+    { "name": "Vodka", "amount": 1.5, "unit": "oz" },
+    { "name": "Coffee liqueur (e.g., Kahlúa)", "amount": 0.75, "unit": "oz" },
+    { "name": "Fresh espresso", "amount": 1.0, "unit": "oz" },
+    { "name": "Simple syrup (to taste)", "amount": 0.25, "unit": "oz" }
+  ],
+  "steps": [
+    "Add vodka, coffee liqueur, espresso, and syrup to a shaker with ice.",
+    "Shake very hard for 10–15 seconds to create a foamy top.",
+    "Strain into a chilled martini glass.",
+    "Garnish before serving."
+  ],
+  "glass": "Martini (cocktail) glass",
+  "garnish": [
+    "3 coffee beans"
+  ]
+}

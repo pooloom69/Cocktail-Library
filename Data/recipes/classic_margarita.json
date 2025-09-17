@@ -1,0 +1,31 @@
+{
+  "id": "margarita_classic",
+  "name": "Margarita",
+  "base": "Tequila",
+  "style": "Classic sour",
+  "flavors": [
+    "citrus",
+    "refreshing",
+    "balanced"
+  ],
+  "abv": 18.5,
+  "ice": "Shake with ice, serve over fresh cubes (or none in coupe)",
+  "ingredients": [
+    { "name": "Blanco tequila", "amount": 2.0, "unit": "oz" },
+    { "name": "Orange liqueur (Cointreau)", "amount": 1.0, "unit": "oz" },
+    { "name": "Fresh lime juice", "amount": 1.0, "unit": "oz" },
+    { "name": "Agave syrup (optional)", "amount": 0.25, "unit": "oz" }
+  ],
+  "steps": [
+    "Optional: Salt half the rim of the glass.",
+    "Add tequila, orange liqueur, lime juice, and agave syrup to a shaker with ice.",
+    "Shake hard for about 10–12 seconds.",
+    "Strain into the prepared glass over fresh ice (or fine-strain into a coupe).",
+    "Garnish before serving."
+  ],
+  "glass": "Rocks glass (or Coupe)",
+  "garnish": [
+    "Salt rim (optional)",
+    "Lime wheel or wedge"
+  ]
+}

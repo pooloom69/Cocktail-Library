@@ -1,0 +1,35 @@
+{
+  "id": "long_island_iced_tea_classic",
+  "name": "Long Island Iced Tea",
+  "base": "Mixed spirits",
+  "style": "Highball",
+  "flavors": [
+    "citrus",
+    "refreshing",
+    "sweet",
+    "spirit-forward"
+  ],
+  "abv": 22.0,
+  "ice": "Build over ice in glass",
+  "ingredients": [
+    { "name": "Vodka", "amount": 0.5, "unit": "oz" },
+    { "name": "Gin", "amount": 0.5, "unit": "oz" },
+    { "name": "White rum", "amount": 0.5, "unit": "oz" },
+    { "name": "Tequila", "amount": 0.5, "unit": "oz" },
+    { "name": "Triple sec (orange liqueur)", "amount": 0.5, "unit": "oz" },
+    { "name": "Fresh lemon juice", "amount": 0.75, "unit": "oz" },
+    { "name": "Simple syrup", "amount": 0.5, "unit": "oz" },
+    { "name": "Cola", "amount": 2.0, "unit": "oz" }
+  ],
+  "steps": [
+    "Fill a highball or Collins glass with ice.",
+    "Add vodka, gin, rum, tequila, triple sec, lemon juice, and simple syrup.",
+    "Top with cola.",
+    "Stir gently to combine.",
+    "Garnish before serving."
+  ],
+  "glass": "Highball or Collins glass",
+  "garnish": [
+    "Lemon wedge"
+  ]
+}

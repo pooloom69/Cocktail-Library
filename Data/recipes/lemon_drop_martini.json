@@ -1,0 +1,31 @@
+{
+  "id": "lemon_drop_martini_classic",
+  "name": "Lemon Drop Martini",
+  "base": "Vodka",
+  "style": "Martini-style sour",
+  "flavors": [
+    "citrus",
+    "sweet",
+    "refreshing"
+  ],
+  "abv": 22.0,
+  "ice": "Shake with ice, serve up",
+  "ingredients": [
+    { "name": "Vodka", "amount": 2.0, "unit": "oz" },
+    { "name": "Triple sec (orange liqueur)", "amount": 0.5, "unit": "oz" },
+    { "name": "Fresh lemon juice", "amount": 0.75, "unit": "oz" },
+    { "name": "Simple syrup (1:1)", "amount": 0.5, "unit": "oz" }
+  ],
+  "steps": [
+    "Optional: Rim a chilled martini glass with sugar.",
+    "Add vodka, triple sec, lemon juice, and simple syrup to a shaker with ice.",
+    "Shake hard for 10–12 seconds until very cold.",
+    "Strain into the prepared glass.",
+    "Garnish before serving."
+  ],
+  "glass": "Martini (cocktail) glass",
+  "garnish": [
+    "Sugar rim (optional)",
+    "Lemon twist"
+  ]
+}

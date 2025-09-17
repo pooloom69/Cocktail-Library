@@ -1,0 +1,32 @@
+{
+  "id": "gin_fizz_classic",
+  "name": "Gin Fizz",
+  "base": "Gin",
+  "style": "Fizz",
+  "flavors": [
+    "citrus",
+    "refreshing",
+    "light",
+    "effervescent"
+  ],
+  "abv": 12.0,
+  "ice": "Shake with ice, serve without ice",
+  "ingredients": [
+    { "name": "Gin", "amount": 2.0, "unit": "oz" },
+    { "name": "Fresh lemon juice", "amount": 0.75, "unit": "oz" },
+    { "name": "Simple syrup (1:1)", "amount": 0.75, "unit": "oz" },
+    { "name": "Soda water", "amount": 2.0, "unit": "oz" }
+  ],
+  "steps": [
+    "Add gin, lemon juice, and simple syrup to a shaker with ice.",
+    "Shake hard for about 10–12 seconds until chilled.",
+    "Strain into a chilled highball or Collins glass (no ice).",
+    "Top with soda water.",
+    "Garnish before serving."
+  ],
+  "glass": "Highball or Collins glass",
+  "garnish": [
+    "Lemon slice",
+    "Optional: fresh mint"
+  ]
+}

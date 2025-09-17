@@ -1,0 +1,34 @@
+{
+  "id": "mai_tai_classic",
+  "name": "Mai Tai",
+  "base": "Rum",
+  "style": "Tiki",
+  "flavors": [
+    "citrus",
+    "tropical",
+    "sweet",
+    "spirit-forward",
+    "nutty"
+  ],
+  "abv": 20.0,
+  "ice": "Shake with ice, serve over crushed ice",
+  "ingredients": [
+    { "name": "Aged rum", "amount": 2.0, "unit": "oz" },
+    { "name": "Orange curaçao", "amount": 0.75, "unit": "oz" },
+    { "name": "Fresh lime juice", "amount": 0.75, "unit": "oz" },
+    { "name": "Orgeat syrup", "amount": 0.5, "unit": "oz" },
+    { "name": "Simple syrup (optional, to taste)", "amount": 0.25, "unit": "oz" }
+  ],
+  "steps": [
+    "Add rum, curaçao, lime juice, orgeat, and optional syrup to a shaker with ice.",
+    "Shake well until chilled.",
+    "Strain into a double rocks glass filled with crushed ice.",
+    "Garnish before serving."
+  ],
+  "glass": "Double rocks glass",
+  "garnish": [
+    "Mint sprig",
+    "Lime wheel",
+    "Spent lime shell"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cosmopolitan_classic",
+  "name": "Cosmopolitan",
+  "base": "Vodka",
+  "style": "Martini-style sour",
+  "flavors": [
+    "citrus",
+    "refreshing",
+    "sweet",
+    "cranberry"
+  ],
+  "abv": 20.0,
+  "ice": "Shake with ice, serve up",
+  "ingredients": [
+    { "name": "Vodka (citrus vodka preferred)", "amount": 1.5, "unit": "oz" },
+    { "name": "Triple sec (Cointreau)", "amount": 1.0, "unit": "oz" },
+    { "name": "Fresh lime juice", "amount": 0.5, "unit": "oz" },
+    { "name": "Cranberry juice", "amount": 0.5, "unit": "oz" }
+  ],
+  "steps": [
+    "Add vodka, triple sec, lime juice, and cranberry juice to a shaker with ice.",
+    "Shake well until chilled.",
+    "Strain into a chilled martini glass.",
+    "Garnish before serving."
+  ],
+  "glass": "Martini (cocktail) glass",
+  "garnish": [
+    "Lime wheel",
+    "Optional: orange twist"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "clover_club_classic",
+  "name": "Clover Club",
+  "base": "Gin",
+  "style": "Classic sour",
+  "flavors": [
+    "citrus",
+    "berry",
+    "refreshing",
+    "creamy"
+  ],
+  "abv": 18.0,
+  "ice": "Shake with ice, serve up",
+  "ingredients": [
+    { "name": "Gin", "amount": 2.0, "unit": "oz" },
+    { "name": "Fresh lemon juice", "amount": 0.75, "unit": "oz" },
+    { "name": "Raspberry syrup (or grenadine)", "amount": 0.5, "unit": "oz" },
+    { "name": "Egg white (optional)", "amount": 1.0, "unit": "small" }
+  ],
+  "steps": [
+    "If using egg white: dry shake all ingredients (no ice) for 10 seconds to build foam.",
+    "Add ice to the shaker and shake hard until well chilled.",
+    "Double strain into a chilled coupe glass.",
+    "Garnish before serving."
+  ],
+  "glass": "Coupe glass",
+  "garnish": [
+    "Fresh raspberries",
+    "Lemon twist (optional)"
+  ]
+}

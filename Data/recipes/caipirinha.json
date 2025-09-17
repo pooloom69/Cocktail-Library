@@ -1,0 +1,30 @@
+{
+  "id": "caipirinha_classic",
+  "name": "Caipirinha",
+  "base": "Cachaça",
+  "style": "Sour / Built",
+  "flavors": [
+    "citrus",
+    "refreshing",
+    "sweet",
+    "spirit-forward"
+  ],
+  "abv": 20.0,
+  "ice": "Build over ice in glass",
+  "ingredients": [
+    { "name": "Cachaça", "amount": 2.0, "unit": "oz" },
+    { "name": "Fresh lime (cut into wedges)", "amount": 0.5, "unit": "whole" },
+    { "name": "Granulated sugar", "amount": 2, "unit": "tsp" }
+  ],
+  "steps": [
+    "Add lime wedges and sugar to a rocks glass.",
+    "Muddle gently to release juice and dissolve sugar.",
+    "Fill the glass with ice.",
+    "Add cachaça and stir well.",
+    "Garnish before serving."
+  ],
+  "glass": "Rocks glass",
+  "garnish": [
+    "Lime wedge or wheel"
+  ]
+}

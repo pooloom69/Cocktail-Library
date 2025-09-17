@@ -1,0 +1,28 @@
+{
+  "id": "daiquiri_classic",
+  "name": "Daiquiri",
+  "base": "Rum",
+  "style": "Classic sour",
+  "flavors": [
+    "citrus",
+    "refreshing",
+    "bright"
+  ],
+  "abv": 20.0,
+  "ice": "Shake with ice, serve up",
+  "ingredients": [
+    { "name": "White rum", "amount": 2.0, "unit": "oz" },
+    { "name": "Fresh lime juice", "amount": 1.0, "unit": "oz" },
+    { "name": "Simple syrup (1:1)", "amount": 0.75, "unit": "oz" }
+  ],
+  "steps": [
+    "Add rum, lime juice, and simple syrup to a shaker with ice.",
+    "Shake hard for about 10–12 seconds until chilled.",
+    "Fine-strain into a chilled coupe glass.",
+    "Garnish and serve."
+  ],
+  "glass": "Coupe",
+  "garnish": [
+    "Lime wheel (optional)"
+  ]
+}

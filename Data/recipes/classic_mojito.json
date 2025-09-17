@@ -1,0 +1,33 @@
+{
+  "id": "mojito_classic",
+  "name": "Mojito",
+  "base": "Rum",
+  "style": "Highball",
+  "flavors": [
+    "citrus",
+    "refreshing",
+    "minty",
+    "sweet"
+  ],
+  "abv": 12.0,
+  "ice": "Build over ice in glass",
+  "ingredients": [
+    { "name": "White rum", "amount": 2.0, "unit": "oz" },
+    { "name": "Fresh lime juice", "amount": 0.75, "unit": "oz" },
+    { "name": "Simple syrup (or sugar)", "amount": 0.5, "unit": "oz" },
+    { "name": "Fresh mint leaves", "amount": 8, "unit": "leaves" },
+    { "name": "Soda water", "amount": 3.0, "unit": "oz" }
+  ],
+  "steps": [
+    "Lightly muddle mint leaves with lime juice and simple syrup in a highball glass.",
+    "Fill the glass with ice.",
+    "Add white rum and stir gently.",
+    "Top with soda water and give a brief stir.",
+    "Garnish before serving."
+  ],
+  "glass": "Highball glass",
+  "garnish": [
+    "Mint sprig",
+    "Lime wedge or wheel"
+  ]
+}

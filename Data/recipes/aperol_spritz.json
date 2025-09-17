@@ -1,0 +1,30 @@
+{
+  "id": "aperol_spritz_classic",
+  "name": "Aperol Spritz",
+  "base": "Aperol",
+  "style": "Spritz / Sparkling",
+  "flavors": [
+    "bitter",
+    "citrus",
+    "refreshing",
+    "effervescent"
+  ],
+  "abv": 11.0,
+  "ice": "Build over ice in glass",
+  "ingredients": [
+    { "name": "Aperol", "amount": 3.0, "unit": "oz" },
+    { "name": "Prosecco", "amount": 3.0, "unit": "oz" },
+    { "name": "Soda water", "amount": 1.0, "unit": "oz" }
+  ],
+  "steps": [
+    "Fill a large wine glass with ice.",
+    "Add Aperol and Prosecco.",
+    "Top with soda water.",
+    "Stir gently to combine.",
+    "Garnish before serving."
+  ],
+  "glass": "Large wine glass",
+  "garnish": [
+    "Orange slice"
+  ]
+}
