@@ -1,0 +1,22 @@
+{
+    "id": "daiquiri-classic",
+    "name": "Daiquiri",
+    "base": "rum",
+    "style": "sour",
+    "flavors": { "citrus": 0.8, "sweet": 0.4, "bitter": 0.1 },
+    "abvLevel": 0.6,
+    "carbonation": 0.0,
+    "temperature": "up",
+    "ingredients": [
+        { "name": "White Rum", "amount": 60, "unit": "ml" },
+        { "name": "Lime Juice", "amount": 25, "unit": "ml" },
+        { "name": "Simple Syrup", "amount": 15, "unit": "ml" }
+    ],
+    "steps": [
+        "Shake with ice for 10–12 seconds.",
+        "Strain into a chilled coupe."
+    ],
+    "glass": "coupe",
+    "garnish": ["lime wheel"],
+    "tags": ["classic","iba"]
+}
