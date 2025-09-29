@@ -10,14 +10,22 @@ import SwiftUI
 struct ProfileView: View {
     
     var body: some View {
-        TabView{
+        TabView {
+            // Home tab
             VStack {
-                Text("Cocktail Library")
-            }
-            .tabItem{
-                Label("Home", systemImage: "house.fill")
+                Text("Profile")
+                    .font(.largeTitle)
+                    .bold()
+                    .padding()
             }
 
+
         }
+    }
+}
+
+struct ProfileView_Previews: PreviewProvider {
+    static var previews: some View {
+        ProfileView()
     }
 }
